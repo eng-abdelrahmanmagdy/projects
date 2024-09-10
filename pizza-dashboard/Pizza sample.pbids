@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "file",
+        "address": {
+          "path": "c:\\program files\\windowsapps\\microsoft.microsoftpowerbidesktop_2.126.1261.0_x64__8wekyb3d8bbwe\\bin\\sampledata\\financial sample.xlsx"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {},
+      "mode": null
+    }
+  ]
+}
